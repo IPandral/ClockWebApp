@@ -1,0 +1,10 @@
+#clock {
+    font-size: 48px;
+    font-weight: bold;
+    text-align: center;
+  }
+
+#date {
+    font-size: 24px;
+    text-align: center;
+  }
